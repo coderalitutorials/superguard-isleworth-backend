@@ -25,9 +25,9 @@ app.use(
 
 app.use(express.json());
 
-// app.get("/", (req, res) => {
-//   res.send("SuperGuard  isleworth Backend Server Running");
-// });
+app.get("/", (req, res) => {
+  res.send("SuperGuard  isleworth Backend Server Running");
+});
 
 /* ==========================================================
    BRAND CONFIG
