@@ -17,7 +17,7 @@ app.use(
       // Production domains
       "https://superguardisleworth.uk",
       "https://www.superguardisleworth.uk",
-      "https://superguard-westwickham-frontend.vercel.app",
+      "https://superguard-isleworth-frontend.vercel.app",
     ],
     credentials: true,
   })
